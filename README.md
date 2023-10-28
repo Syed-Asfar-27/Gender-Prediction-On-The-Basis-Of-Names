@@ -31,9 +31,7 @@ To get started with this project, follow these steps:
    pip install pandas scikit-learn
    ```
 
-3. Download the dataset from the following URL: [Gender by Name Dataset](https://archive.ics.uci.edu/dataset/591/gender+by+name). Save it as 'name_gender_dataset.csv' in the project directory.
-
-4. Replace 'name_gender_dataset.csv' in the code with your dataset path.
+3. Replace 'name_gender_dataset.csv' in the code with your dataset path.
 
 ## Usage
 
