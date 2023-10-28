@@ -49,3 +49,4 @@ The SVM classifier is trained using the provided dataset and TF-IDF features. Yo
 
 The model allows for interactive gender prediction based on user input. Run the script, and when prompted, enter a name to get a gender prediction. Enter 'exit' to quit the interactive prediction mode.
 
+![Gender Prediction ipynb - Colaboratory (1)](https://github.com/Syed-Asfar-27/Gender-Prediction-On-The-Basis-Of-Names/assets/85727853/f140f667-6038-40ea-b225-280c46556e04)
