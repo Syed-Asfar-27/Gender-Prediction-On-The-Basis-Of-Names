@@ -22,7 +22,7 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Syed-Asfar-27/Gender-Prediction-On-The-Basis-Of-Names.git
+   git clone https://github.com/syed-asfar-ahmad/Gender-Prediction-On-The-Basis-Of-Names.git
    ```
 
 2. Install the required dependencies:
